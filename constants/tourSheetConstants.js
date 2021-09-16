@@ -54,14 +54,20 @@ DRIVERS_SORT_ORDER= [
   {column: 12, ascending: false}, // CNT
   {column: 11, ascending: false}, // PpA
   {column: 10, ascending: false}, // Pts
+  {column: 8, ascending: true}, // RAR
+  {column: 2, ascending: true} // Name
 ];
 KARTS_SORT_ORDER= [
   {column: 24, ascending: false}, // CNT
   {column: 23, ascending: false}, // PpA
   {column: 22, ascending: false}, // Pts
+  {column: 20, ascending: true}, // RAR
+  {column: 16, ascending: true} // Name
 ];
 GLIDERS_SORT_ORDER= [
   {column: 36, ascending: false}, // CNT
   {column: 35, ascending: false}, // PpA
   {column: 34, ascending: false}, // Pts
+  {column: 32, ascending: true}, // RAR
+  {column: 28, ascending: true} // Name
 ];
