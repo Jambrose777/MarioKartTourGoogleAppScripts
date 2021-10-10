@@ -1,7 +1,7 @@
 CURRENT_TOUR_OVERRIDE = "";
 
 // Course Ranges
-COURSES_DATA_RANGE = "A2:AS38"; // V1 A2:AO38
+COURSES_DATA_RANGE = "A2:AY38"; // V1 A2:AO38
 DATE_CELLS = [
   {date: "K40", value: "L40"}, {date: "K41", value: "L41"}, {date: "K42", value: "L42"}, {date: "K43", value: "L43"},
   {date: "K44", value: "L44"}, {date: "K45", value: "L45"}, {date: "K46", value: "L46"}, {date: "N40", value: "O40"}, {date: "N41", value: "O41"}, {date: "N42", value: "O42"}, {date: "N43", value: "O43"},
